@@ -1,8 +1,8 @@
 {
-  "name": "CheemsBot-MD",
+  "name": "Lilly-v2-md",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/DGXeon/CheemsBot-MD",
-  "logo": "https://pbs.twimg.com/media/FO7fojOakAAyYgt?format=jpg&name=900x900",
+  "repository": "https://github.com/Carlox-ser-mass-ser/Lilly-v2-md",
+  "logo": "https://i.imgur.com/5TR6OL3.jpeg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
